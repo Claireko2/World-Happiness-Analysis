@@ -17,4 +17,4 @@ Analyzed global happiness data to identify socio-economic factors impacting nati
 - Produced actionable insights that could inform policy decisions and global well-being initiatives.
 - Improved prediction accuracy of country happiness categories by 15% compared to baseline models.
 
-**Tools:** Python, R, MS Excel, Pandas, NumPy, Tableau, Power BI
+**Tools:** Python, MS Excel, Pandas, NumPy, Seaborn
