@@ -5,7 +5,7 @@ Analyzed global happiness data to identify socio-economic factors impacting nati
 
 **Highlights:**
 - Conducted exploratory data analysis (EDA) and visualized trends using Python & MS Excel.
-- Built classification models with R:
+- Built classification models with scikit-learn:
   - Logistic Regression (80% accuracy)
   - Neural Network (84% accuracy)
   - Decision Tree
@@ -17,7 +17,7 @@ Analyzed global happiness data to identify socio-economic factors impacting nati
 - Produced actionable insights that could inform policy decisions and global well-being initiatives.
 - Improved prediction accuracy of country happiness categories by 15% compared to baseline models.
 
-**Tools:** Python, MS Excel, Pandas, NumPy, Seaborn
+**Tools:** Python, MS Excel, scikit-learn, Pandas, NumPy, Seaborn
 
 # Key Findings
 
@@ -65,7 +65,7 @@ Analyzed global happiness data to identify socio-economic factors impacting nati
 Countries aiming to improve happiness should prioritize **GDP growth, healthcare (life expectancy), and social support systems**, as these are the strongest predictors of happiness scores.  
 
 ### Targeted Regional Development
-Regions with lowest rankings:  
+Regions with the lowest rankings:  
 - **Sub-Saharan Africa**  
 - **South Asia**  
 
